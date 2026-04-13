@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
