@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2615-sum-of-distances](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [2615-sum-of-distances](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2615-sum-of-distances) |
 ## Two Pointers
 |  |
 | ------- |
