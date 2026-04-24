@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2833-furthest-point-from-origin](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
 | ------- |
