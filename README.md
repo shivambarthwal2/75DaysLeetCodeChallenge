@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## String
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Linked List
 |  |
 | ------- |
