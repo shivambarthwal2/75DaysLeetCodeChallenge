@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/2463-minimum-total-distance-traveled) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivambarthwal2/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
